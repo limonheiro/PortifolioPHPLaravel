@@ -1,0 +1,1 @@
+<?php /**PATH /home/nico/projetoLaravel/nafoto/nafoto/resources/views/layout/partials/footer-scripts.blade.php ENDPATH**/ ?>
